@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhonmacedo63/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
-![Jhonmacedo01 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonmacedo01&show_icons=true&theme=dracula)
+![Jhonmacedo01 GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonmacedo01&show_icons=true&theme=dracula&locale=pt-br)
 
 ## Tecnologias que eu uso no meu dia
 
